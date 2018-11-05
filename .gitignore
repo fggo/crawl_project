@@ -1,0 +1,5 @@
+__pycache__/*
+get_price/spiders/__pycache__/*
+.logs/*
+.idea/*
+output.json
